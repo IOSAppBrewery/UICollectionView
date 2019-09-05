@@ -12,7 +12,6 @@
 		525FD930231E7770008AB72E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 525FD92E231E7770008AB72E /* Main.storyboard */; };
 		525FD932231E7771008AB72E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 525FD931231E7771008AB72E /* Assets.xcassets */; };
 		525FD935231E7771008AB72E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 525FD933231E7771008AB72E /* LaunchScreen.storyboard */; };
-		525FD93F231E77EB008AB72E /* CollectionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 525FD93E231E77EB008AB72E /* CollectionView.swift */; };
 		525FD941231E7814008AB72E /* CollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 525FD940231E7814008AB72E /* CollectionViewCell.swift */; };
 		525FD943231E7841008AB72E /* BaseCollectionViewLayout.swift in Sources */ = {isa = PBXBuildFile; fileRef = 525FD942231E7841008AB72E /* BaseCollectionViewLayout.swift */; };
 		525FD945231E7869008AB72E /* GalleryLayoutV1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 525FD944231E7869008AB72E /* GalleryLayoutV1.swift */; };
@@ -27,7 +26,6 @@
 		525FD931231E7771008AB72E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		525FD934231E7771008AB72E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		525FD936231E7771008AB72E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		525FD93E231E77EB008AB72E /* CollectionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollectionView.swift; sourceTree = "<group>"; };
 		525FD940231E7814008AB72E /* CollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollectionViewCell.swift; sourceTree = "<group>"; };
 		525FD942231E7841008AB72E /* BaseCollectionViewLayout.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BaseCollectionViewLayout.swift; sourceTree = "<group>"; };
 		525FD944231E7869008AB72E /* GalleryLayoutV1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GalleryLayoutV1.swift; sourceTree = "<group>"; };
@@ -70,7 +68,6 @@
 				525FD931231E7771008AB72E /* Assets.xcassets */,
 				525FD933231E7771008AB72E /* LaunchScreen.storyboard */,
 				525FD936231E7771008AB72E /* Info.plist */,
-				525FD93E231E77EB008AB72E /* CollectionView.swift */,
 				525FD940231E7814008AB72E /* CollectionViewCell.swift */,
 				525FD942231E7841008AB72E /* BaseCollectionViewLayout.swift */,
 				525FD944231E7869008AB72E /* GalleryLayoutV1.swift */,
@@ -152,7 +149,6 @@
 			files = (
 				525FD943231E7841008AB72E /* BaseCollectionViewLayout.swift in Sources */,
 				525FD947231E7882008AB72E /* GalleryLayoutV2.swift in Sources */,
-				525FD93F231E77EB008AB72E /* CollectionView.swift in Sources */,
 				525FD92D231E7770008AB72E /* ViewController.swift in Sources */,
 				525FD941231E7814008AB72E /* CollectionViewCell.swift in Sources */,
 				525FD92B231E7770008AB72E /* AppDelegate.swift in Sources */,

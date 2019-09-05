@@ -14,7 +14,7 @@ class BaseCollectionViewLayout: UICollectionViewLayout {
     private var columnYOffset : [CGFloat]!
     private var contentSize : CGSize!
     
-    private var totalItemsInSection = 0
+    var totalItemsInSection = 0
     
     var totalColumns = 0
     var interItemsSpacing: CGFloat = 8
